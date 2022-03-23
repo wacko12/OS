@@ -8,7 +8,7 @@ using System.Xml;
 using System.Collections.Generic;
 using System.IO.Compression;
 
-namespace OC_LAB01_Pyrshiev_BBBO10
+namespace OC_LAB01_Novikov_BBBO10
 {
     class User
     {
