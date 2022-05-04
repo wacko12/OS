@@ -1,0 +1,10 @@
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\bin\Debug\OC_lAB05_PCB.exe.config
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\bin\Debug\OC_lAB05_PCB.exe
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\bin\Debug\OC_lAB05_PCB.pdb
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\obj\Debug\OC_lAB05_PCB.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\obj\Debug\OC_lAB05_PCB.Form1.resources
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\obj\Debug\OC_lAB05_PCB.Properties.Resources.resources
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\obj\Debug\OC_lAB05_PCB.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\obj\Debug\OC_lAB05_PCB.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\obj\Debug\OC_lAB05_PCB.exe
+C:\Users\student\Source\Repos\OC_lAB05_PCB\OC_lAB05_PCB\obj\Debug\OC_lAB05_PCB.pdb
